@@ -6,12 +6,8 @@ I like goa because of its  **beaches and their view points**,adventure water spo
 ***
 
 ### Activites to do at goa
-Scuba Diving and water sports in Malvan
-Sunset kayaking at Mandrem Beach
-curise ride at candolim Beach
+1. Scuba Diving and water sports in Malvan
+2. Sunset kayaking at Mandrem Beach
+3. curise ride at candolim Beach
 
-***
-### dishes that you can get at your vacation spot
-Goan Fish Thali
-Chicken xacuti
-Vindaloo
+
