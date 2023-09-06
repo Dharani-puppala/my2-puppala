@@ -10,4 +10,11 @@ I like goa because of its  **beaches and their view points**,adventure water spo
 2. Sunset kayaking at Mandrem Beach
 3. curise ride at candolim Beach
 
+***
+
+### dishes that you can get at your vacation spot
+* Goan Fish Thali
+* Chicken xacuti
+* Vindaloo
+
 
