@@ -29,4 +29,10 @@ sports can improve  Sleep,make Heart strong,Reduces Stress,Improves Lung Functio
 | Tennis | increasing aerobic capacities.increasing aerobic capacities. | 3-4 |
 | Cycling | decreased stress levels. improved posture and coordination.strengthened bones. | 3-4 |
 
+***
+
+### Pithy Quotes
+>“Success can come to you by courageous devotion to the task lying in front of you.”-*C V Raman*
+>“A dream is not that which you see while sleeping, it is something that does not let you sleep.”-*APJ Abdul Kalam*
+
 
