@@ -19,4 +19,14 @@ I like goa because of its  **beaches and their view points**,adventure water spo
 
 click[MyStats](MyStats.md)for picture
 
+***
+## Sports Recommendation
+sports can improve  Sleep,make Heart strong,Reduces Stress,Improves Lung Function.
+| Name of the sports|reason for reccomendation|hours in an average week|
+| --- | --- | --- |
+| kabadi | It helps in toning the muscles of the legs, hands and body.It makes us flexible. |3-4 |
+| Swimming | providing good low-impact therapy for some injuries and conditions. providing a pleasant way to cool down on a hot day. | 3-4 |
+| Tennis | increasing aerobic capacities.increasing aerobic capacities. | 3-4 |
+| Cycling | decreased stress levels. improved posture and coordination.strengthened bones. | 3-4 |
+
 
