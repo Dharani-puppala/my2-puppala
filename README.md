@@ -36,4 +36,19 @@ sports can improve  Sleep,make Heart strong,Reduces Stress,Improves Lung Functio
 
 >“A dream is not that which you see while sleeping, it is something that does not let you sleep.”-*APJ Abdul Kalam*
 
+***
+
+## Code Fencing
+> Hyperlink to email address
+[cilck here to open](https://stackoverflow.com/questions/51031396/hyperlink-to-email-address)
+
+```
+<a href="mailto:someone@yoursite.com">Email Us</a> 
+
+```
+
+[click here tom open](https://css-tricks.com/snippets/html/mailto-links/)
+
+
+
 
