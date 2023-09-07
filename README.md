@@ -17,4 +17,6 @@ I like goa because of its  **beaches and their view points**,adventure water spo
 * Chicken xacuti
 * Vindaloo
 
+click[MyStats](MyStats.md)for picture
+
 
